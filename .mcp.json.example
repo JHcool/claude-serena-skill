@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "serena": {
+      "type": "stdio",
+      "command": "C:\\Users\\<your-username>\\.local\\bin\\serena.exe",
+      "args": [
+        "start-mcp-server",
+        "--context", "ide-assistant",
+        "--project", "D:\\path\\to\\your\\project"
+      ],
+      "env": {}
+    }
+  }
+}
